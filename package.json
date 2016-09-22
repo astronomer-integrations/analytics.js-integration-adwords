@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-adwords",
+  "name": "@astronomerio/analytics.js-integration-adwords",
   "description": "The Adwords analytics.js integration.",
   "version": "2.1.0",
   "keywords": [
