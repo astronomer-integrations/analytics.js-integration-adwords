@@ -28,7 +28,7 @@
     "do-when": "^1.0.0"
   },
   "devDependencies": {
-    "@segment/analytics.js-core": "^3.0.0",
+    "@segment/analytics.js-core": "github:segmentio/analytics.js-core#v3.10.1",
     "@segment/analytics.js-integration-tester": "^3.1.0",
     "@segment/clear-env": "^2.0.0",
     "@segment/eslint-config": "^3.1.1",
